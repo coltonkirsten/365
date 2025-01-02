@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		93E810BD2D266A0F00F3ECC7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93E810A42D266A0C00F3ECC7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93E810AB2D266A0C00F3ECC7;
+			remoteInfo = "HappyNewYear! (day 1)";
+		};
+		93E810C72D266A0F00F3ECC7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93E810A42D266A0C00F3ECC7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93E810AB2D266A0C00F3ECC7;
+			remoteInfo = "HappyNewYear! (day 1)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		93E810AC2D266A0C00F3ECC7 /* HappyNewYear! (day 1).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HappyNewYear! (day 1).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93E810BC2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HappyNewYear! (day 1)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93E810C62D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HappyNewYear! (day 1)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		93E810AE2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HappyNewYear! (day 1)";
+			sourceTree = "<group>";
+		};
+		93E810BF2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HappyNewYear! (day 1)Tests";
+			sourceTree = "<group>";
+		};
+		93E810C92D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HappyNewYear! (day 1)UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		93E810A92D266A0C00F3ECC7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810B92D266A0F00F3ECC7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810C32D266A0F00F3ECC7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		93E810A32D266A0C00F3ECC7 = {
+			isa = PBXGroup;
+			children = (
+				93E810AE2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */,
+				93E810BF2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests */,
+				93E810C92D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests */,
+				93E810AD2D266A0C00F3ECC7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		93E810AD2D266A0C00F3ECC7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				93E810AC2D266A0C00F3ECC7 /* HappyNewYear! (day 1).app */,
+				93E810BC2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests.xctest */,
+				93E810C62D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		93E810AB2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93E810D02D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)" */;
+			buildPhases = (
+				93E810A82D266A0C00F3ECC7 /* Sources */,
+				93E810A92D266A0C00F3ECC7 /* Frameworks */,
+				93E810AA2D266A0C00F3ECC7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				93E810AE2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */,
+			);
+			name = "HappyNewYear! (day 1)";
+			packageProductDependencies = (
+			);
+			productName = "HappyNewYear! (day 1)";
+			productReference = 93E810AC2D266A0C00F3ECC7 /* HappyNewYear! (day 1).app */;
+			productType = "com.apple.product-type.application";
+		};
+		93E810BB2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93E810D32D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)Tests" */;
+			buildPhases = (
+				93E810B82D266A0F00F3ECC7 /* Sources */,
+				93E810B92D266A0F00F3ECC7 /* Frameworks */,
+				93E810BA2D266A0F00F3ECC7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93E810BE2D266A0F00F3ECC7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				93E810BF2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests */,
+			);
+			name = "HappyNewYear! (day 1)Tests";
+			packageProductDependencies = (
+			);
+			productName = "HappyNewYear! (day 1)Tests";
+			productReference = 93E810BC2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		93E810C52D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93E810D62D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)UITests" */;
+			buildPhases = (
+				93E810C22D266A0F00F3ECC7 /* Sources */,
+				93E810C32D266A0F00F3ECC7 /* Frameworks */,
+				93E810C42D266A0F00F3ECC7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93E810C82D266A0F00F3ECC7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				93E810C92D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests */,
+			);
+			name = "HappyNewYear! (day 1)UITests";
+			packageProductDependencies = (
+			);
+			productName = "HappyNewYear! (day 1)UITests";
+			productReference = 93E810C62D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		93E810A42D266A0C00F3ECC7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					93E810AB2D266A0C00F3ECC7 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					93E810BB2D266A0F00F3ECC7 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 93E810AB2D266A0C00F3ECC7;
+					};
+					93E810C52D266A0F00F3ECC7 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 93E810AB2D266A0C00F3ECC7;
+					};
+				};
+			};
+			buildConfigurationList = 93E810A72D266A0C00F3ECC7 /* Build configuration list for PBXProject "HappyNewYear! (day 1)" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 93E810A32D266A0C00F3ECC7;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 93E810AD2D266A0C00F3ECC7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				93E810AB2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */,
+				93E810BB2D266A0F00F3ECC7 /* HappyNewYear! (day 1)Tests */,
+				93E810C52D266A0F00F3ECC7 /* HappyNewYear! (day 1)UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		93E810AA2D266A0C00F3ECC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810BA2D266A0F00F3ECC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810C42D266A0F00F3ECC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		93E810A82D266A0C00F3ECC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810B82D266A0F00F3ECC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93E810C22D266A0F00F3ECC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		93E810BE2D266A0F00F3ECC7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93E810AB2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */;
+			targetProxy = 93E810BD2D266A0F00F3ECC7 /* PBXContainerItemProxy */;
+		};
+		93E810C82D266A0F00F3ECC7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93E810AB2D266A0C00F3ECC7 /* HappyNewYear! (day 1) */;
+			targetProxy = 93E810C72D266A0F00F3ECC7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		93E810CE2D266A0F00F3ECC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		93E810CF2D266A0F00F3ECC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		93E810D12D266A0F00F3ECC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HappyNewYear! (day 1)/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		93E810D22D266A0F00F3ECC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HappyNewYear! (day 1)/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		93E810D42D266A0F00F3ECC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HappyNewYear! (day 1).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HappyNewYear! (day 1)";
+			};
+			name = Debug;
+		};
+		93E810D52D266A0F00F3ECC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HappyNewYear! (day 1).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HappyNewYear! (day 1)";
+			};
+			name = Release;
+		};
+		93E810D72D266A0F00F3ECC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HappyNewYear! (day 1)";
+			};
+			name = Debug;
+		};
+		93E810D82D266A0F00F3ECC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "privateserver.HappyNewYear---day-1-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HappyNewYear! (day 1)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		93E810A72D266A0C00F3ECC7 /* Build configuration list for PBXProject "HappyNewYear! (day 1)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93E810CE2D266A0F00F3ECC7 /* Debug */,
+				93E810CF2D266A0F00F3ECC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93E810D02D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93E810D12D266A0F00F3ECC7 /* Debug */,
+				93E810D22D266A0F00F3ECC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93E810D32D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93E810D42D266A0F00F3ECC7 /* Debug */,
+				93E810D52D266A0F00F3ECC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93E810D62D266A0F00F3ECC7 /* Build configuration list for PBXNativeTarget "HappyNewYear! (day 1)UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93E810D72D266A0F00F3ECC7 /* Debug */,
+				93E810D82D266A0F00F3ECC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 93E810A42D266A0C00F3ECC7 /* Project object */;
+}
