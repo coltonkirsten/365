@@ -1,0 +1,87 @@
+# =============== #
+# Xcode / macOS   #
+# =============== #
+
+# OSX metadata
+.DS_Store
+
+# Thumbnails
+.AppleDouble
+
+# Xcode project workspaces
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Derived Data
+DerivedData/
+build/
+*.lo
+*.o
+*.obj
+*.pyc
+*.pyo
+*.rej
+*.so
+Pods/
+
+# =============== #
+# Swift Packages  #
+# =============== #
+.swiftpm/xcode
+Package.resolved
+
+# =============== #
+# Playground Data #
+# =============== #
+timeline.xctimeline
+playground.xcworkspace
+
+# =============== #
+# SwiftUI Preview #
+# =============== #
+*.intentdefinition
+*.intentdefinitionct
+*.entitlements
+
+# =============== #
+# Extra Tools     #
+# =============== #
+
+# Carthage
+Carthage/Build
+
+# CocoaPods
+# Note: It's common to commit the Podfile.lock but exclude Pods/
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# =============== #
+# Testing         #
+# =============== #
+test
+tests
+*.xctest
+
+# Swift Package Manager build artifacts
+.build/
+
+# =============== #
+# Others          #
+# =============== #
+
+# Symbolication files
+*.bcsymbolmap
+
+# Generally exclude any local configuration or environment files
+.env
+.env.*
